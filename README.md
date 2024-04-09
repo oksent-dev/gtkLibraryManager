@@ -1,5 +1,5 @@
 ## Introduction
-Simple app to manage books in library. Done in C with gtk library.
+App to manage books in library. Done in C with gtk library.
 To compile, use command below.
 ```
 gcc `pkg-config --cflags gtk+-3.0` -o a main.c `pkg-config --libs gtk+-3.0`
